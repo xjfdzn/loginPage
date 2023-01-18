@@ -13,7 +13,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b06e2fe2-632f-49e4-9c57-02b342ca72f7/dfn2zpy-4708896c-e7a1-43a0-87a5-4ac7a8e4410c.png/v1/fill/w_1280,h_629,q_80,strp/login_by_flameefx_dfn2zpy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI5IiwicGF0aCI6IlwvZlwvYjA2ZTJmZTItNjMyZi00OWU0LTljNTctMDJiMzQyY2E3MmY3XC9kZm4yenB5LTQ3MDg4OTZjLWU3YTEtNDNhMC04N2E1LTRhYzdhOGU0NDEwYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6OfgZTPuNu1Y1fiN7idoNSxmbeSYcvXn_iMi3Um1qgc">
 </p>
 
 <br>
